@@ -1,8 +1,8 @@
-<h1 align="center">Melody Kelly Nwaogu</h1>
+<h1 align="center">Kelly Melody</h1>
 
 <p align="center">
-  <strong>Frontend Engineer</strong><br>
-  Building Modern Web Experiences with React & JavaScript
+  <strong>Aspiring Security Analyst | AppSec & SOC Triage</strong><br>
+  Bridging Frontend Development with Security Engineering & Defensive Operations
 </p>
 
 <p align="center">
@@ -11,42 +11,36 @@
   </a>
 </p>
 
-
-
 # About Me
 
-Frontend Engineer passionate about building responsive, modern, and user-focused web applications. I enjoy transforming ideas into interactive digital experiences using React, JavaScript, and modern frontend technologies.
+Frontend developer transitioning into Security Analysis and Application Security. I leverage my software engineering background to analyze system vulnerabilities, conduct SIEM log triage, and build secure web architectures.
 
-- Building scalable React applications
-- Creating responsive and accessible user interfaces
-- Focused on performance and clean UI architecture
-- Continuously learning and improving through real-world projects
-
-
-
-## Tech Stack
-
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend & Tools
-- Node.js
-- PostgreSQL
-- Git & GitHub
-- Vercel
-- Render
+-  **Focus:** Threat monitoring, SIEM log analysis, and web application security (OWASP Top 10)
+-  **Hands-on Practice:** Lab investigations on TryHackMe, log analysis in Splunk, and SQL query optimization
+-  **Certifications in Progress:** Google Cybersecurity Professional Certificate
+-  **Core Background:** Modern JavaScript/React architecture and Linux system administration
 
 
 
-### Family Fair
-An ecommerce experience focused on clean product discovery, fast browsing and responsive shopping across every device.
+## Technical Skills
 
-**Tech Stack:** React, JavaScript, Tailwind CSS
+### Security Operations & Tools
+- **SIEM & Monitoring:** Splunk
+- **Network & Analysis:** Wireshark, Log Triage
+- **Frameworks:** OWASP Top 10, NIST CSF
+
+### Systems, Databases & Scripting
+- **Operating Systems:** Zorin OS (Linux), Windows
+- **Databases & Querying:** MySQL, PostgreSQL, SQL
+- **Scripting & Web:** JavaScript (ES6+), React.js, HTML5/CSS3, Git
+
+
+
+## Projects
+
+### Security & Web Applications
+- **Prisca Store:** Full-featured e-commerce interface designed with input validation, secure client-side routing, and responsive state management. 
+  * *Tech:* React, JavaScript, Tailwind CSS
 
 
 
@@ -65,9 +59,8 @@ An ecommerce experience focused on clean product discovery, fast browsing and re
 <a href="https://github.com/melodykellynwaogu" target="blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://www.instagram.com/melodykellynwaogu_/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
