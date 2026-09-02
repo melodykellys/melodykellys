@@ -1,7 +1,7 @@
 <h1 align="center">Kelly Melody</h1>
 
 <p align="center">
-  <strong>Aspiring Security Analyst | AppSec & SOC Triage</strong><br>
+  <strong>Aspiring Security Analyst | SOC Triage</strong><br>
   Bridging Frontend Development with Security Engineering & Defensive Operations
 </p>
 
