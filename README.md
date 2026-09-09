@@ -1,4 +1,4 @@
-<h1 align="center">Kelly Melody</h1>
+<h1 align="center">Melody Kelly</h1>
 
 <p align="center">
   <strong>Aspiring Security Analyst | SOC Triage</strong><br>
