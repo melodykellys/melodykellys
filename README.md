@@ -39,7 +39,10 @@ Frontend developer transitioning into Security Analysis and Application Security
 ## Projects
 
 ### Security & Web Applications
-- **Prisca Store:** Full-featured e-commerce interface designed with input validation, secure client-side routing, and responsive state management. 
+- **Web Reconnaissance & Header Hardening Dashboard:** An open-source web audit tool designed for automated host reconnaissance, HTTP security header evaluation, and configuration analysis. Features modular FastAPI routers, integration with Nmap, remediation snippet generation, and exportable JSON/PDF report functionality.
+  * *Tech:* Python, FastAPI, Nmap, JavaScript, HTML5, CSS3, Git
+
+- **Prisca Store:** Full-featured e-commerce interface designed with input validation, secure client-side routing, and responsive state management.
   * *Tech:* React, JavaScript, Tailwind CSS
 
 
