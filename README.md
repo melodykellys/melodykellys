@@ -66,20 +66,6 @@ When I'm not configuring playbooks or shell scripts, you'll find me managing Lin
 - **Ansible Infrastructure Automation:** Automated Debian server provisioning, Nginx deployment, UFW firewall policy enforcement, and cron backup jobs using idempotent Ansible playbooks.
 - **FastRecon (Web Recon & Hardening Scanner):** Security scanner tool that executes automated Nmap port auditing, security header checks, and generates hardened Nginx configurations (*FastAPI, Python, Nmap*).
 - **Sentinel (Mini-SIEM Platform):** Lightweight log ingestion engine and dashboard built for authentication monitoring, failed login alerts, and system auditing (*FastAPI, SQLite, Python*).
-- **Prisca Store & Family Fair:** Full-featured responsive e-commerce web applications managed for high availability (*React, JavaScript, Tailwind CSS*).
-
-<h5>Statistics</h5>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=melodykellys&show_icons=true&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellys&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="right">
-  <img src="https://streak-stats.demolab.com/?user=melodykellys&theme=radical" width="48%" />
-</p>
+- **Prisca Store & Family Fair:** Managed cloud deployments on Vercel and Render while maintaining high application availability and uptime. Implemented secure configuration management practices, API integrations, and client-side performance optimization.
 
 > "Simplicity is the soul of efficiency."
