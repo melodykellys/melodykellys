@@ -1,7 +1,7 @@
 <h3 align="center">Hi there I'm Kelly</h3>
 
 <p align="center">
-  <strong>System Administrator | Engineer</strong><br>
+  <strong>System | Engineer</strong><br>
 </p>
 
 <!-- My linkedin, instagram, and twitter badges -->
