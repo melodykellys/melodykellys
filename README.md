@@ -22,7 +22,7 @@
 
 <h5 align="left">About Me</h5>
 
-I'm Melody Kelly, a System Administrator and Security Engineer based in Malawi. I build and maintain automated server environments, system scripts, and network tooling across Linux (Debian/Ubuntu), Ansible, Python, Bash, and Nginx.
+I'm Melody Kelly, a System Engineer based in Malawi. I build and maintain automated server environments, system scripts, and network tooling across Linux (Debian/Ubuntu), Ansible, Python, Bash, and Nginx.
 
 My focus is on Infrastructure-as-Code (IaC), server security hardening, service management, and automated monitoring. I specialize in building maintainable system automation from scratch—writing custom deployment playbooks, configuring UFW/firewall rules, automating cron backup routines, and optimizing server uptime.
 
