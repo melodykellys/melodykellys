@@ -1,7 +1,7 @@
 <h3 align="center">Hi there I'm Kelly</h3>
 
 <p align="center">
-  <strong>System | Engineer</strong><br>
+  <strong>Security & Systems Engineer</strong><br>
 </p>
 
 <!-- My linkedin, instagram, and twitter badges -->
@@ -9,7 +9,7 @@
 <a href="https://github.com/melodykellys" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://melodykn.vercel.app" target="_blank">
+<a href="https://kellysql.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/kelly-melody-a78802397/" target="_blank">
@@ -22,20 +22,20 @@
 
 <h5 align="left">About Me</h5>
 
-I'm Melody Kelly, a System Engineer based in Malawi. I build and maintain automated server environments, system scripts, and network tooling across Linux (Debian/Ubuntu), Ansible, Python, Bash, and Nginx.
+I'm Melody Kelly, a Security & Systems Engineer based in Malawi. I build and maintain secure web applications, hardened Linux environments, and custom security automation tooling across Debian/Ubuntu, Ansible, Python, FastAPI, and Nginx.
 
-My focus is on Infrastructure-as-Code (IaC), server security hardening, service management, and automated monitoring. I specialize in building maintainable system automation from scratch—writing custom deployment playbooks, configuring UFW/firewall rules, automating cron backup routines, and optimizing server uptime.
+My focus is on the intersection of software development and infrastructure security—auditing access control rules, implementing vulnerability disclosure policies, configuring UFW/firewall rules, and building maintainable system automation from scratch.
 
-Alongside infrastructure administration, I actively develop open-source security tools like **FastRecon**, a web reconnaissance and server configuration auditing scanner (FastAPI, Python, Nmap integration), and **Sentinel**, a mini-SIEM log tracking system designed to monitor authentication failures and system access.
+Alongside production engineering work (such as security auditing and access control hardening), I actively develop open-source security tools like **FastRecon**, a web reconnaissance and server configuration auditing scanner, and **Sentinel**, a mini-SIEM log tracking system designed to monitor authentication failures and system access.
 
-When I'm not configuring playbooks or shell scripts, you'll find me managing Linux environments, reviewing system logs, optimizing web server configurations, and contributing to open-source systems projects.
+When I'm not writing code or configuring playbooks, you'll find me managing Linux environments, reviewing system logs, optimizing web server configurations, and contributing to open-source systems and security projects.
 
 <h5 align="left">Tech Stack</h5>
 <table>
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py,bash,js,html,react" alt="Python, Bash, JavaScript, HTML, React" />
+      <img src="https://skillicons.dev/icons?i=py,bash,js,ts,react" alt="Python, Bash, JavaScript, TypeScript, React" />
     </td>
   </tr>
   <tr>
@@ -63,9 +63,8 @@ When I'm not configuring playbooks or shell scripts, you'll find me managing Lin
 
 <h5 align="left">Featured Projects</h5>
 
-- **Ansible Infrastructure Automation:** Automated Debian server provisioning, Nginx deployment, UFW firewall policy enforcement, and cron backup jobs using idempotent Ansible playbooks.
 - **FastRecon (Web Recon & Hardening Scanner):** Security scanner tool that executes automated Nmap port auditing, security header checks, and generates hardened Nginx configurations (*FastAPI, Python, Nmap*).
 - **Sentinel (Mini-SIEM Platform):** Lightweight log ingestion engine and dashboard built for authentication monitoring, failed login alerts, and system auditing (*FastAPI, SQLite, Python*).
-- **Prisca Store & Family Fair:** Managed cloud deployments on Vercel and Render while maintaining high application availability and uptime. Implemented secure configuration management practices, API integrations, and client-side performance optimization.
+- **Ansible Infrastructure Automation:** Automated Debian server provisioning, Nginx deployment, UFW firewall policy enforcement, and cron backup jobs using idempotent Ansible playbooks.
 
 > "Simplicity is the soul of efficiency."
