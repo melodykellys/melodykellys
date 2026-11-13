@@ -12,9 +12,6 @@
 <a href="https://kellysql.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/kelly-melody-a78802397/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://x.com/kellycodesql" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
